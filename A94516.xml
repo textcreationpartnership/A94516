@@ -1,0 +1,432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most Excellent Majesty. The humble address of the nobility and gentry of the county of Dorset.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94516</idno>
+            <idno type="STC">Wing T1511</idno>
+            <idno type="STC">Thomason 669.f.25[44]</idno>
+            <idno type="STC">ESTC R212427</idno>
+            <idno type="EEBO-CITATION">99871051</idno>
+            <idno type="PROQUEST">99871051</idno>
+            <idno type="VID">163849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163849)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most Excellent Majesty. The humble address of the nobility and gentry of the county of Dorset.</title>
+                  <author>Strode, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Clavel at the Stags-head in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Strode [and 220 others].</note>
+                  <note>Annotation on Thomason copy: "June 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Dorset (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:163849:1" rendition="simple:additions"/>
+            <head>TO THE KINGS moſt Excellent Majeſty. The Humble Addreſs of the <hi>NOBILITY</hi> and <hi>GENTRY</hi> of the County of <hi>DORSET.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>WE cannot but with all Humility and Thankfulneſs Admire and Adore the Infinite Mercy, and Immediate Goodneſs of Almighty God, when we ſeriouſly conſider, how beyond all humane expectations and endeavours he hath by his gracious Interpoſition only of his own Power and Wiſdom, thus miraculouſly and without Effuſion of bloud Reſtored Your moſt Excellent Majeſty in Honour and Safety to Your Throne and People; our hearts here<g ref="char:EOLhyphen"/>by and the hearts of all Your moſt Loyal and Obedient Subjects that were formerly filled with longings and prayers for Your Majeſties ſafe return, are now revived and enflamed with moſt earneſt deſires to ſerve and obey you, and therefore we moſt humbly and heartily tender to the gracious acceptance of Your moſt Sacred Majeſty the moſt affectionate, loyal, and obedient hearts of all thoſe whoſe names are ſubſcribed, who will according to the bounden duty with the greateſt chearfulneſs that may be, and with the hazard of of their Lives and Fortunes be alwayes ready to advance Your Majeſties Service, and to maintain Your Crown and Dignity.</p>
+            <p>God Almighty grant Your Majeſty long and proſperouſly to Reign over us, that this Land, the Church and Kingdom may flouriſh and grow great again, as in thoſe happy dayes of that Glorious Martyr Your Royal Father, and Your Grandfather of ever Bleſſed Memory: And that you may van<g ref="char:EOLhyphen"/>quiſh and overcome all Your Enemies, theſe are, and ever ſhall be the daily Prayers and the faithful Endeavours of</p>
+            <closer>
+               <signed>Your MAJESTIES moſt humble And moſt dutiful Subjects
+<list>
+                     <item>John Strode <hi>Sheriff.</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of</hi> Lichfieled.</item>
+                     <item>
+                        <hi>Lord</hi> John Digby.</item>
+                     <item>
+                        <hi>Sir</hi> Anthony Aſhly Cooper <hi>Baronet.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> George Morton <hi>Baronet.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Gerrard Napper <hi>Baronet.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Strangwayes <hi>Knight.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Francis Fulford <hi>Knight.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Ralph Banks <hi>Knight.</hi>
+                     </item>
+                     <item>
+                        <hi>Knights of the Shire for the County.</hi>
+                        <list>
+                           <item>John Fitz-James</item>
+                           <item>Robert Coker</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Eſquires.</hi>
+                        <list>
+                           <item>Giles Strangwayes</item>
+                           <item>Thomas Freak</item>
+                           <item>Humphry Weld</item>
+                           <item>John Norton</item>
+                           <item>John Tregonel <hi>the Elder</hi>
+                           </item>
+                           <item>Joh. Tregonel <hi>jun.</hi>
+                           </item>
+                           <item>John Tregonel <hi>of Auderſton</hi>
+                           </item>
+                           <item>John Strangwayes</item>
+                           <item>John Hunham</item>
+                           <item>George Pit</item>
+                           <item>Thomas Fowns</item>
+                           <item>Robert Culliford</item>
+                           <item>William Okedon</item>
+                           <item>John Rives <hi>of Dave<g ref="char:EOLhyphen"/>neth</hi>
+                           </item>
+                           <item>Robert Lawrence</item>
+                           <item>Nathaniel Napper</item>
+                           <item>Edmund Hull</item>
+                           <item>Delaine Huſſey</item>
+                           <item>John Rogers</item>
+                           <item>Edmund Uvedal</item>
+                           <item>John Turburvile</item>
+                           <item>Henry Butler</item>
+                           <item>Bullen Ryves</item>
+                           <item>Robert Seymour</item>
+                           <item>Arthur Radford</item>
+                           <item>George Ryves <hi>ſen.</hi>
+                           </item>
+                           <item>Thomas Baynard</item>
+                           <item>George Fulford</item>
+                           <item>John Rives</item>
+                           <item>William Thomas</item>
+                           <item>William Frampton</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Eſquires.</hi>
+                        <list>
+                           <item>VVollie Miller</item>
+                           <item>Edward Hooper</item>
+                           <item>Matthew Davies</item>
+                           <item>George Brown</item>
+                           <item>Thomas Philips</item>
+                           <item>Will. Conſtantine</item>
+                           <item>Thomas Fitz-James</item>
+                           <item>Henry Fitz-James</item>
+                           <item>John Trenchard</item>
+                           <item>Edmund Hawles</item>
+                           <item>Francis Morton</item>
+                           <item>John Laurence</item>
+                           <item>Oliver Laurence</item>
+                           <item>Edmund Hull <hi>jun.</hi>
+                           </item>
+                           <item>John Strangwayes</item>
+                           <item>Robert Napper</item>
+                           <item>Maximilian Mahun</item>
+                           <item>Francis Mahun</item>
+                           <item>Robert Mahum</item>
+                           <item>William Mahum</item>
+                           <item>Thomas Huſſey</item>
+                           <item>George Huſſey</item>
+                           <item>John Freak</item>
+                           <item>James Gould</item>
+                           <item>Robert Freak</item>
+                           <item>Henry VVhitaker</item>
+                           <item>George Savage</item>
+                           <item>Robert Basket</item>
+                           <item>VVilliam Churchil</item>
+                           <item>VVynſton Churchil</item>
+                           <item>VVilliam Collyer</item>
+                           <item>John Jefferies</item>
+                           <item>VVilliam Filcoll</item>
+                           <item>John Henly</item>
+                           <item>VVil. Fantleroy <hi>ſe.</hi>
+                           </item>
+                           <item>VVil. Fantleroy <hi>ju.</hi>
+                           </item>
+                           <item>John Abington</item>
+                           <item>John Oldis</item>
+                           <item>Henry Haſtings</item>
+                           <item>Bruerton Ancetil</item>
+                           <item>John Harding</item>
+                           <item>John Colzer</item>
+                           <item>Georg Groy</item>
+                           <item>John Pawlet</item>
+                           <item>William Gardner</item>
+                           <item>James Baker</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Eſquires.</hi>
+                        <list>
+                           <item>Richard Biſhop</item>
+                           <item>Humphrey Biſhop</item>
+                           <item>John Gould</item>
+                           <item>Anthony Ettrick</item>
+                           <item>John Gallopp</item>
+                           <item>Samuell Pitt</item>
+                           <item>Edward Pitt</item>
+                           <item>John Mitechel</item>
+                           <item>Thomas Meggs</item>
+                           <item>Thomas Thorenacks</item>
+                           <item>William Chaldicott</item>
+                           <item>Richard Swayne</item>
+                           <item>Rich. Swayne <hi>junior</hi>
+                           </item>
+                           <item>William Swayne</item>
+                           <item>Humphrey Biſhop</item>
+                           <item>John Samwaies</item>
+                           <item>John Pawlet</item>
+                           <item>George Rives <hi>junior</hi>
+                           </item>
+                           <item>Thomas Turbervile</item>
+                           <item>Ham. Ward <hi>Doctor of Phyſick.</hi>
+                           </item>
+                           <item>Will. Okeden <hi>ſen.</hi>
+                           </item>
+                           <item>Robert Heveing</item>
+                           <item>John Doleing</item>
+                           <item>Robert Erenly</item>
+                           <item>William Fillwill</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Gent.</hi>
+                        <list>
+                           <item>Amos Fulford</item>
+                           <item>John Laurence</item>
+                           <item>Breven Laurence</item>
+                           <item>Edward Laurence</item>
+                           <item>Hen. Carrant <hi>ſenior</hi>
+                           </item>
+                           <item>Hen. Carrant <hi>junior</hi>
+                           </item>
+                           <item>George Okeden</item>
+                           <item>Joſeph Huſſey</item>
+                           <item>John Bennet</item>
+                           <item>William Bowles</item>
+                           <item>George Barber</item>
+                           <item>James Gould</item>
+                           <item>George Turbervile</item>
+                           <item>Henry Conſtantine</item>
+                           <item>Giles Lockett</item>
+                           <item>Edward Malcott</item>
+                           <item>Ferdinando Burly</item>
+                           <item>Th. Thorneacks <hi>jun.</hi>
+                           </item>
+                           <item>Andrew Buckner</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Gent.</hi>
+                        <list>
+                           <item>John Ironſide</item>
+                           <item>Henry Thovehult</item>
+                           <item>John Abarove</item>
+                           <item>Richard Frampton</item>
+                           <item>George Frampton</item>
+                           <item>John M<gap reason="illegible: faint" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>niford</item>
+                           <item>Jacob Taylor</item>
+                           <item>Francis Chaldicott</item>
+                           <item>Jo. Butler <hi>of</hi> Hauly</item>
+                           <item>Peverell Meggs</item>
+                           <item>Hubert Arnold</item>
+                           <item>Henry Arnold</item>
+                           <item>Laurence Harris</item>
+                           <item>Chriſtopher Pitt</item>
+                           <item>William Weare</item>
+                           <item>Robert Lewen</item>
+                           <item>Robert Leven <hi>junior</hi>
+                           </item>
+                           <item>Giles Stagg</item>
+                           <item>William Ruſſell</item>
+                           <item>William Ruſſell <hi>of</hi> Kingſton</item>
+                           <item>Thomas Gillingham</item>
+                           <item>Andrew Ettrick</item>
+                           <item>Giles Lockett</item>
+                           <item>John Strode</item>
+                           <item>George Strangwaies</item>
+                           <item>John Biſhop</item>
+                           <item>John Child</item>
+                           <item>George Gould</item>
+                           <item>John Gould</item>
+                           <item>Nicholas Gould</item>
+                           <item>George Stile</item>
+                           <item>Robert Napper <hi>jun.</hi>
+                           </item>
+                           <item>Audely Gray</item>
+                           <item>Henry Gray</item>
+                           <item>Nich. Strangwayes</item>
+                           <item>George Daubery</item>
+                           <item>John Miller</item>
+                           <item>John Loope</item>
+                           <item>Thomas Loope</item>
+                           <item>Will. Chamberlyn</item>
+                           <item>Will. Fantleroy <hi>jun.</hi>
+                           </item>
+                           <item>Simon Eggerdon</item>
+                           <item>William Eggerdon</item>
+                           <item>John Coker</item>
+                           <item>Luke Coker</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Gent.</hi>
+                        <list>
+                           <item>James Giar</item>
+                           <item>Thomas Arnold</item>
+                           <item>Richard Fulford</item>
+                           <item>William Bennet</item>
+                           <item>Edmund Lane</item>
+                           <item>Edmund Chaffin</item>
+                           <item>Robert Hoddmott</item>
+                           <item>Robert Bonie</item>
+                           <item>Thomas Speed</item>
+                           <item>John Cutler</item>
+                           <item>Edward Guy</item>
+                           <item>Thomas Frampton</item>
+                           <item>Thomas Basket</item>
+                           <item>Philip Roots</item>
+                           <item>Richard Jolliff</item>
+                           <item>Nicholas Fill</item>
+                           <item>Roger Thague</item>
+                           <item>Philip Nicholas</item>
+                           <item>Henry Lewen</item>
+                           <item>Edmund Laving</item>
+                           <item>Edmund Dirdo</item>
+                           <item>William Young</item>
+                           <item>Thomas Pitt</item>
+                           <item>Henry Rives</item>
+                           <item>Robert Fry</item>
+                           <item>Francis Fry</item>
+                           <item>Henry Bower</item>
+                           <item>Chriſt. Willoughby</item>
+                           <item>Edmund Frampton</item>
+                           <item>Thomas Loop</item>
+                           <item>George Arnold</item>
+                           <item>Thomas Arnold</item>
+                           <item>Arthur Langford</item>
+                           <item>John Ernly</item>
+                           <item>John Kerly,</item>
+                           <item>John Childe <hi>ſenior</hi>
+                           </item>
+                           <item>Laurence Harris</item>
+                           <item>Nathaniel Gould</item>
+                           <item>VVilliam VVake</item>
+                           <item>Robert Pitt</item>
+                           <item>Robert Palmer</item>
+                           <item>Samuel Palmer</item>
+                           <item>Edward VValcot</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="deposition">
+            <p>The above written Addreſs was preſented to his Sacred Majeſtie at <hi>Whitehall</hi> the 12. day of <hi>June,</hi> 1660. by the Earl of <hi>Litchfield,</hi> Sir <hi>Anthony Aſhly-Cooper,</hi> Sir <hi>John Strangwaies</hi> Colonel <hi>John Fitz-James,</hi> Colonel <hi>Coker</hi> Knights of the ſaid Shire, Colonel <hi>Giles Strangwaies,</hi> with divers other of the above-named perſons of Honour and quality; His Majeſty expreſſing his moſt gracious acceptation thereof.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Clavel</hi> at the <hi>Stags-bead</hi> in St. <hi>Pauls</hi> Church-yard, MDCLX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
